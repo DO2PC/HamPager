@@ -1,2 +1,4 @@
 # HamPager
-Dapnet Pager with Rubrics, Multi-Rics, Groups
+
+Dapnet Pocsag Pager
+with Rubrics, Multi-Rics, Groups
